@@ -18,4 +18,5 @@ Doughnut Charts: Difficulty to Enter Field & Satisfaction Scores – Represent u
 
 Gauge Charts – Quick view of average ratings on salary satisfaction and work-life balance.
 
-4) Screenshots/Demos
+4) Screenshots/Demos  
+https://github.com/kenkaneki5283/Survey-Dashboard-/blob/main/Survey%20Dashboard.png    
